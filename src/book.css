@@ -1,0 +1,9 @@
+.card-img-left {
+    height: 200px;
+}
+
+.card {
+    flex-direction: row;
+    margin: 2rem;
+    padding: 1rem;
+}
